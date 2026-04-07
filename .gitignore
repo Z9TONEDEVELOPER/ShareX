@@ -1,0 +1,126 @@
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+# =============================================
+# .NET / C# / Build artifacts
+# =============================================
+bin/
+obj/
+*.user
+*.rsuser
+*.suo
+*.pdb
+*.cache
+*.log
+*.tmp
+*.temp
+
+# =============================================
+# Avalonia / .NET MAUI / Mobile
+# =============================================
+*.avalonia
+*.maui
+*.android
+*.ios
+*.maccatalyst
+*.tvos
+*.watchos
+
+# =============================================
+# iOS / Xcode / macOS 
+# =============================================
+*.plist
+*.mobileprovision
+*.provisionprofile
+*.entitlements
+*.p12
+*.cer
+*.pfx
+*.key
+*.mobileconfig
+
+xcuserdata/
+DerivedData/
+*.xccheckout
+*.xcscmblueprint
+*.ipa
+*.dSYM
+*.app
+
+# =============================================
+# IDE files
+# =============================================
+.vs/
+.vscode/
+.idea/
+*.DotSettings.user
+*.sln.iml
+*.userprefs
+*.suo
+*.swp
+*.swo
+
+# =============================================
+# NuGet / Packages
+# =============================================
+packages/
+*.nupkg
+*.snupkg
+.nuget/
+
+# =============================================
+# Test results
+# =============================================
+TestResult.xml
+*.trx
+
+# =============================================
+# Logs and temporary files
+# =============================================
+logs/
+*.log
+
+# =============================================
+# macOS specific
+# =============================================
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# =============================================
+# Windows specific
+# =============================================
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# =============================================
+# SQLite / Local databases
+# =============================================
+*.db
+*.sqlite
+*.sqlite3
+
+# =============================================
+# User-specific configuration files
+# =============================================
+appsettings.Development.json
+launchSettings.json
+secrets.json
+
+# =============================================
+# Avalonia specific generated files
+# =============================================
+/Assets/Assets.resx
+/Assets/*.g.cs
