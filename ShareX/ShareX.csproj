@@ -21,4 +21,9 @@
         </PackageReference>
         <PackageReference Include="CommunityToolkit.Mvvm"/>
     </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="Core\" />
+      <Folder Include="Services\Interfaces\" />
+    </ItemGroup>
 </Project>
